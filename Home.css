@@ -1,0 +1,33 @@
+h1{
+  color: black;
+} 
+h1 {
+  text-align: center;
+}
+h1{
+  font: outline;
+}
+p{
+   color: black;
+   text-align: justify;
+   line-height: 200%;
+  }
+h1{
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+h2{color: black; font-family: Georgia, 'Times New Roman', Times, serif; text-align: center}
+body{
+  background-image: radial-gradient(grey, teal);
+   background-repeat:no-repeat;
+   background-size: cover;
+   height: 100%;
+}
+html{height:100%}
+.intro{
+margin: 0 50px;
+}
